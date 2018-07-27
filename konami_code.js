@@ -13,5 +13,9 @@ const codes = [
 
 function init() {
   // your code here
-  document.body.addEventListener("keydown", checkClicks)
+  document.body.addEventListener("keydown", checkClicks);
+}
+
+function checkClicks(){
+  
 }
