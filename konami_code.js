@@ -16,6 +16,6 @@ function init() {
   document.body.addEventListener("keydown", checkClicks);
 }
 
-function checkClicks(){
+function checkClicks(e){
  alert("hi"); 
 }
