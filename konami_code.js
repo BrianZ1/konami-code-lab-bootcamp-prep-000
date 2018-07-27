@@ -17,5 +17,5 @@ function init() {
 }
 
 function checkClicks(){
-  
+ alert 
 }
